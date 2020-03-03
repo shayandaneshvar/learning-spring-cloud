@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.karyon2:karyon-core:2.2.00-ALPHA3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/karyon2/karyon-core/2.2.00-ALPHA3/karyon-core-2.2.00-ALPHA3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/karyon2/karyon-core/2.2.00-ALPHA3/karyon-core-2.2.00-ALPHA3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/karyon2/karyon-core/2.2.00-ALPHA3/karyon-core-2.2.00-ALPHA3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
